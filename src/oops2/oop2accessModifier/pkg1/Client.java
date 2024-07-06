@@ -1,4 +1,4 @@
-package oop2accessModifier.pkg1;
+package oops2.oop2accessModifier.pkg1;
 
 public class Client {
 
@@ -7,7 +7,7 @@ public class Client {
         student.name="Anup";
         student.psp=10;
         student.universityName="DU";
-        student.age=50;
+//        student.age=50;
 
 
     }

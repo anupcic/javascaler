@@ -1,17 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b59cf66c-3dac-42f4-a5f6-4f53c6b701fe" name="Changes" comment="" />
+    <list default="true" id="b59cf66c-3dac-42f4-a5f6-4f53c6b701fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps3/inheritance/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps3/inheritance/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps3/inheritance/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps3/inheritance/constructorChaining/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps3/inheritance/constructorChaining/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps3/inheritance/constructorChaining/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps3/inheritance/constructorChaining/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps3/inheritance/constructorChaining/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps3/javarefrence/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps3/javarefrence/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops2/constructors/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops2/constructors/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops2/constructors/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops2/constructors/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops2/oop2accessModifier/pkg1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops2/oop2accessModifier/pkg1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops2/oop2accessModifier/pkg1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops2/oop2accessModifier/pkg1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops2/oop2accessModifier/pkg2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops2/oop2accessModifier/pkg2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops2/oop2accessModifier/pkg2/StudentChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops2/oop2accessModifier/pkg2/StudentChild.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2iliiXzzIsIIgLIatIXGzRRlhCG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,9 +53,86 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.opps3.inheritance.constructorChaining.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops2.constructors.Client" />
+      <module name="java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops2.constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opps3.inheritance.constructorChaining.D" />
+      <module name="java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opps3.inheritance.constructorChaining.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oops2.oop2accessModifier.pkg2.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops2.oop2accessModifier.pkg2.Client" />
+      <module name="java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops2.oop2accessModifier.pkg2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="opps3.inheritance.constructorChaining.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opps3.inheritance.constructorChaining.Client" />
+      <module name="java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opps3.inheritance.constructorChaining.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="opps3.javarefrence.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opps3.javarefrence.Client" />
+      <module name="java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opps3.javarefrence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.opps3.inheritance.constructorChaining.Client" />
+        <item itemvalue="Application.D" />
+        <item itemvalue="Application.opps3.javarefrence.Client" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.oops2.oop2accessModifier.pkg2.Client" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

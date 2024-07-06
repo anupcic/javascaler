@@ -1,4 +1,4 @@
-package oop2accessModifier.pkg1;
+package oops2.oop2accessModifier.pkg1;
 
 public class Student {
     // private String name; // Can access from the same class only
