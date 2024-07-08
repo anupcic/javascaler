@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b59cf66c-3dac-42f4-a5f6-4f53c6b701fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/opps3/interfaceCheck/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps3/interfaceCheck/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps3/interfaceCheck/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps3/interfaceCheck/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps3/polymorphism/compileTime/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps3/polymorphism/compileTime/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps3/polymorphism/compileTime/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps3/polymorphism/compileTime/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/HelloWorldExample/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/HelloWorldExample/HelloWorldPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/NumberPrinterExample/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/NumberPrinterExample/NumberPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/NumberPrinterUsingPool/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/NumberPrinterUsingPool/NumberPrinterPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/HelloWorldRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/HelloWorldThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/opps3/inheritance/constructorChaining/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/opps3/inheritance/constructorChaining/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/opps3/inheritance/constructorChaining/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/opps3/inheritance/constructorChaining/C.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +49,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opps3.inheritance.constructorChaining.B" />
+  <component name="RunManager" selected="Application.OS1.Concurrency.NumberPrinterUsingPool.Client">
+    <configuration name="HelloWorldRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.HelloWorldRunnable" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="opps3.inheritance.constructorChaining.*" />
+          <option name="PATTERN" value="multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opps3.interfaceCheck.Client" />
+    <configuration name="HelloWorldThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.HelloWorldThread" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="opps3.interfaceCheck.*" />
+          <option name="PATTERN" value="multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opps3.inheritance.constructorChaining.D" />
+    <configuration name="OS1.Concurrency.HelloWorldExample.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OS1.Concurrency.HelloWorldExample.Client" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="opps3.inheritance.constructorChaining.*" />
+          <option name="PATTERN" value="OS1.Concurrency.HelloWorldExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="opps3.inheritance.constructorChaining.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opps3.inheritance.constructorChaining.Client" />
+    <configuration name="OS1.Concurrency.NumberPrinterExample.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OS1.Concurrency.NumberPrinterExample.Client" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="opps3.inheritance.constructorChaining.*" />
+          <option name="PATTERN" value="OS1.Concurrency.NumberPrinterExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="opps3.polymorphism.compileTime.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opps3.polymorphism.compileTime.Client" />
+    <configuration name="OS1.Concurrency.NumberPrinterUsingPool.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OS1.Concurrency.NumberPrinterUsingPool.Client" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="opps3.polymorphism.compileTime.*" />
+          <option name="PATTERN" value="OS1.Concurrency.NumberPrinterUsingPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.opps3.polymorphism.compileTime.Client" />
-        <item itemvalue="Application.opps3.inheritance.constructorChaining.Client" />
-        <item itemvalue="Application.B" />
-        <item itemvalue="Application.D" />
+        <item itemvalue="Application.OS1.Concurrency.NumberPrinterUsingPool.Client" />
+        <item itemvalue="Application.OS1.Concurrency.NumberPrinterExample.Client" />
+        <item itemvalue="Application.HelloWorldRunnable" />
+        <item itemvalue="Application.OS1.Concurrency.HelloWorldExample.Client" />
+        <item itemvalue="Application.HelloWorldThread" />
       </list>
     </recent_temporary>
   </component>
@@ -148,5 +146,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OS1/Concurrency/HelloWorldExample/HelloWorldPrinter.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
