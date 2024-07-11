@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b59cf66c-3dac-42f4-a5f6-4f53c6b701fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/CallableMergesort/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/CallableMergesort/MergeSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/AdderSubProb/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/AdderSubProb/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/AdderSubProb/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/AdderSubProb/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/CallableMergesort/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OS1/Concurrency/CallableMergesort/MergeSorter2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OS1/Concurrency/CallableMergesort/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OS1/Concurrency/CallableMergesort/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +48,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.OS1.Concurrency.AdderSubProb.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OS1.Concurrency.CallableMergesort.Client" />
       <module name="java_learning" />
@@ -57,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorldRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.HelloWorldRunnable" />
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OS1.Concurrency.CallableMergesort.Client2" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.*" />
+          <option name="PATTERN" value="OS1.Concurrency.CallableMergesort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OS1.Concurrency.HelloWorldExample.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OS1.Concurrency.HelloWorldExample.Client" />
+    <configuration name="OS1.Concurrency.AdderSubProb.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OS1.Concurrency.AdderSubProb.Client" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OS1.Concurrency.HelloWorldExample.*" />
+          <option name="PATTERN" value="OS1.Concurrency.AdderSubProb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OS1.Concurrency.AdderSubProb.Client" />
+        <item itemvalue="Application.Client2" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.OS1.Concurrency.NumberPrinterUsingPool.Client" />
         <item itemvalue="Application.OS1.Concurrency.NumberPrinterExample.Client" />
-        <item itemvalue="Application.HelloWorldRunnable" />
-        <item itemvalue="Application.OS1.Concurrency.HelloWorldExample.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +153,11 @@
           <url>file://$PROJECT_DIR$/src/OS1/Concurrency/HelloWorldExample/HelloWorldPrinter.java</url>
           <line>5</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OS1/Concurrency/CallableMergesort/MergeSorter2.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
